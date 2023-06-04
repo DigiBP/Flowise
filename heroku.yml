@@ -4,4 +4,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: node start.js
+  web: yarn start
