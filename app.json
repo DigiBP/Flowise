@@ -1,0 +1,12 @@
+{
+  "name": "Flowise",
+  "stack": "container",
+  "env": {
+    "FLOWISE_USERNAME": {
+      "value": "admin"
+    },
+    "FLOWISE_PASSWORD": {
+      "generator": "secret"
+    }
+  }
+}
